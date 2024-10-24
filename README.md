@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Diana Nunes</h1>
-![lain_gif](https://github.com/user-attachments/assets/e373401f-1c6a-44a3-ac71-48ed88fcfcf1)
 
 <h3 align="center">A Bachelor’s student in Informatics and Computing Engineering at FEUP</h3>
 
