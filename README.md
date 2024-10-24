@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana Nunes</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dimochii/dimochii/refs/heads/main/lain.gif" alt="Lain GIF" />
+</p>
 <h3 align="center">A Bachelor’s student in Informatics and Computing Engineering at FEUP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimochii&label=Profile%20views&color=0e75b6&style=flat" alt="dimochii" /> </p>
