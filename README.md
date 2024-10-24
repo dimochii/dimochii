@@ -53,6 +53,6 @@
 
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dimochii&show_icons=true&locale=en&theme=dark&bg_color=12254e&text_color=ffffff&icon_color=79ff97&title_color=ff8c00" alt="dimochii" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimochii&layout=compact&theme=dark&bg_color=12254e&text_color=ffffff&title_color=ff8c00" alt="dimochii" /> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dimochii&show_icons=true&locale=en&theme=dark&bg_color=12254e&text_color=3b89e6&icon_color=279e5f&title_color=a8c6e9" alt="dimochii" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimochii&layout=compact&theme=dark&bg_color=12254e&text_color=3b89e6&title_color=a8c6e9" alt="dimochii" /> 
 </div> 
