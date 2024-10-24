@@ -4,6 +4,8 @@
 </p>
 <h3 align="center">A Bachelor’s student in Informatics and Computing Engineering at FEUP</h3>
 
+<h2 align="center"></h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimochii&label=Profile%20views&color=0e75b6&style=flat" alt="dimochii" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,8 +51,8 @@
 </a> 
 </p>
 
-<!-- Stats and Languages side by side -->
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dimochii&show_icons=true&locale=en&theme=dark&bg_color=000000&text_color=ffffff&icon_color=79ff97&title_color=ff8c00" alt="dimochii" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimochii&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ff8c00" alt="dimochii" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dimochii&show_icons=true&locale=en&theme=dark&bg_color=12254e&text_color=ffffff&icon_color=79ff97&title_color=ff8c00" alt="dimochii" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimochii&layout=compact&theme=dark&bg_color=12254e&text_color=ffffff&title_color=ff8c00" alt="dimochii" /> 
 </div> 
