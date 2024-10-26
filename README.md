@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimochii&label=Profile%20views&color=0e75b6&style=flat" alt="dimochii" /> </p>
 <p align="left">📡 Currently researching wireless networks at INESC TEC.</p>
-<p align="left">🚀 I enjoy opportunities that allow me to grow both my technical and soft skills.</p>
-<p align="left">💻 I have a strong interest in learning to use new software and programming languages.</p>
+<p align="left">🚀 Always seeking opportunities that foster growth in both my technical and interpersonal skills.</p>
+<p align="left">💻 Strong interest in learning new software tools and programming languages.</p>
 <p align="left">🎨 In my free time, I enjoy drawing and gaming.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
