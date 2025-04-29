@@ -6,7 +6,6 @@
 
 <h2 align="center"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimochii&label=Profile%20views&color=0e75b6&style=flat" alt="dimochii" /> </p>
 <p align="left">📡 Currently researching wireless networks at INESC TEC.</p>
 <p align="left">🚀 Always seeking opportunities that foster growth in both my technical and interpersonal skills.</p>
 <p align="left">💻 Strong interest in learning new software tools and programming languages.</p>
